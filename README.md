@@ -7,7 +7,7 @@ Conventionally, VGF are commonly calculated with the **"<i>relative vegetation a
 In this Colab script, **I demonstrated a machine learning-based approach to generate high-resolution (10-m) VGF from the Sentinel-2 (S2) imagery by leveraging the Google Earth Engine**. Specifically, I used randomly sampled data from coincident historical S2 Normalized Difference Vegetation Index (NDVI) and SMAP VGF as training data to train a random forest regression model. With this model, any updated high-resolution (10-m) S2 NDVI can be used as input to generate the corresponding high-resolution (10-m) VGF.
 
 **Original 9-km resolution SMAP VGF**
-![](https://drive.google.com/open?id=1-oI1EAI2WHhfVgHnrWQXIwHanhpW2rqw&usp=drive_fs)
+![](https://drive.google.com/uc?export=view&id=1-oI1EAI2WHhfVgHnrWQXIwHanhpW2rqw)
 
 **Sentinel-2 high-resolution (10-m) VGF estimated with machine learning**
-![](https://drive.google.com/open?id=1-pel6cvEEFPw8z0vghtUHgSxVEdG2wQf&usp=drive_fs)
+![](https://drive.google.com/uc?export=view&id=1-pel6cvEEFPw8z0vghtUHgSxVEdG2wQf)
